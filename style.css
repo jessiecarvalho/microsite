@@ -1,0 +1,22 @@
+body {
+	background-image: url("img/rug_background_5000.gif");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 600px; 
+    background-size: 50%;
+}
+
+.container {
+	width: 400px;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+
+h1 {
+	color: red;
+}
+
+p {
+	font-family: helvetica;
+	font-size: 30px;
+}
